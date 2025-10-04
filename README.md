@@ -22,6 +22,7 @@ Installation :
 
 git clone [https://github.com/samarthasgowda/Netflix-Clone.git
 ](https://github.com/samarthasgowda/netflix-clone.git)
+
 2. Navigate to the project directory:
 
 cd Netflix-Clone
