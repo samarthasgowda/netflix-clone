@@ -20,8 +20,8 @@ Any modern web browser (e.g., Chrome, Firefox, Safari).
 Installation :
 1. Clone the repository to your local machine:
 
-git clone https://github.com/Empty-Hacker/Netflix-Clone.git
-
+git clone [https://github.com/samarthasgowda/Netflix-Clone.git
+](https://github.com/samarthasgowda/netflix-clone.git)
 2. Navigate to the project directory:
 
 cd Netflix-Clone
